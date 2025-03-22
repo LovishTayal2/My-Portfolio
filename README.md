@@ -23,7 +23,7 @@ Welcome to my **Portfolio Website**! This project showcases my skills, projects,
    ```
 2. Navigate to the project folder:
    ```sh
-   cd LOVISH'S PORTFOLIO
+   cd My-Portfolio
    ```
 3. Open `index.html` in your browser.
 
