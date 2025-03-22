@@ -19,11 +19,11 @@ Welcome to my **Portfolio Website**! This project showcases my skills, projects,
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Samrath2004/Portfolio_Website.git
+   https://github.com/LovishTayal2/My-Portfolio.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd Portfolio_Website
+   cd LOVISH's PORTFOLIO
    ```
 3. Open `index.html` in your browser.
 
